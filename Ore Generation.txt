@@ -1,0 +1,80 @@
+oreCopper
+    Generated
+        Thermal Foundation
+    Removed
+        Forestry    X
+        Immersive Engineering   X
+        Mariculture X
+        Project Red X
+        Tinkers X
+oreTin        
+    Generated
+        Thermal Foundation
+    Removed
+        Forestry    X
+        Project Red X
+        Tinkers X
+oreZinc
+    Generated
+        Flaxbeard
+    Removed
+        None
+
+oreAluminum
+    Generated
+        Galacticraft
+    Removed
+        Mariculture (Bauxite)   X
+        Immersive Engineering (Bauxite) X
+        Tinkers X
+        
+oreOsmium
+    Generated
+        Mekanism
+    Removed
+        None
+        
+oreYellorite
+    Generated
+        Big Reactors
+    Removed
+        None
+        
+oreCadmium
+    Generated
+        ReactorCraft
+    Removed
+        None        
+        
+oreIndium
+    Generated
+        Reactorcraft
+    Removed
+        None
+        
+oreNickel (Ferrous Ore)
+    Generated
+        Thermal Foundation
+    Removed
+        Immersive Engineering   X
+        
+oreSilver
+    Generated
+        Thermal Foundation
+    Removed
+        Immersive Engineering   X
+        Reactorcraft    X
+        Project Red X
+        
+orePlatinum (Shiny)
+    Generated
+        Thermal Foundation
+    Removed
+        None
+        
+oreLead
+    Generated
+        Thermal Foundation
+    Removed
+        Immersive Engineering   X
+        GalaxySpace X
